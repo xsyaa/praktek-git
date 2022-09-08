@@ -2,3 +2,5 @@ NAMA : AMELIA
 KELAS :XI
 ALAMAT : SIDOARJO
 HOBI : TIDUR
+
+nama : malka
